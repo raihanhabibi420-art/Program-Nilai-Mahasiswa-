@@ -1,10 +1,12 @@
 # Program-Nilai-Mahasiswa-
 Program Nilai Mahasiswa untuk UAS Algoritma dan Pemograman Lanjut 
 # identitas Mahasiswa
-. Nama        : M Raihan Habibi
-. NIM         : C2483207004
-. Prodi       : (PTI)
-. Mata Kuliah : Algoritma dan pemrograman lanjutan
+. Nama  : M Raihan Habibi
+. NIM   : C2483207004
+. Prodi : (PTI)
+. Mata Kuliah : Algoritma dan 
+pemrograman lanjutan
+.Dosen Pengampu : Taufik Muhammad, M.Kom
 # Deskripsi Program
 Program Manajemen Nilai Mahasiswa dibuat untuk mengelola data nilai mahasiswa.
 Program ini dapat menerima input data mahasiswa dan nilai, menghitung nilai
